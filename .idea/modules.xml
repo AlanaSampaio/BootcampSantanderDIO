@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstraindoBootcampComPOO/AbstraindoBootcampComPOO.iml" filepath="$PROJECT_DIR$/AbstraindoBootcampComPOO/AbstraindoBootcampComPOO.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/BootcampSantanderDIO.iml" filepath="$PROJECT_DIR$/.idea/BootcampSantanderDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CriandoAPI/CriandoAPI.iml" filepath="$PROJECT_DIR$/CriandoAPI/CriandoAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioBancoDigital/DesafioBancoDigital.iml" filepath="$PROJECT_DIR$/DesafioBancoDigital/DesafioBancoDigital.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioContaBancaria/DesafioContaBancaria.iml" filepath="$PROJECT_DIR$/DesafioContaBancaria/DesafioContaBancaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmartTv/SmartTv.iml" filepath="$PROJECT_DIR$/SmartTv/SmartTv.iml" />
