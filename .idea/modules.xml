@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BootcampSantanderDIO.iml" filepath="$PROJECT_DIR$/.idea/BootcampSantanderDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioContaBancaria/DesafioContaBancaria.iml" filepath="$PROJECT_DIR$/DesafioContaBancaria/DesafioContaBancaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmartTv/SmartTv.iml" filepath="$PROJECT_DIR$/SmartTv/SmartTv.iml" />
     </modules>
   </component>
