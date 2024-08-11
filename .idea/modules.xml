@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/DesafioContaBancaria/DesafioContaBancaria.iml" filepath="$PROJECT_DIR$/DesafioContaBancaria/DesafioContaBancaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModelagemDiagramacaoiPhone/ModelagemDiagramacaoiPhone.iml" filepath="$PROJECT_DIR$/ModelagemDiagramacaoiPhone/ModelagemDiagramacaoiPhone.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmartTv/SmartTv.iml" filepath="$PROJECT_DIR$/SmartTv/SmartTv.iml" />
     </modules>
   </component>
